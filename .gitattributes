@@ -1,0 +1,6 @@
+Data[[:space:]]and[[:space:]]scraper:[[:space:]]WOZ[[:space:]]Utrecht/adressen.csv filter=lfs diff=lfs merge=lfs -text
+data[[:space:]](OSM)[[:space:]]-[[:space:]]other[[:space:]]features/utrecht-latest.osm.pbf filter=lfs diff=lfs merge=lfs -text
+data[[:space:]](OSM)[[:space:]]-[[:space:]]other[[:space:]]features/utrecht_bld.gpkg filter=lfs diff=lfs merge=lfs -text
+CBS:[[:space:]]Data[[:space:]]filtering[[:space:]]en[[:space:]]missing_values/cbs_merge_incl_14.csv filter=lfs diff=lfs merge=lfs -text
+data[[:space:]](OSM)[[:space:]]-[[:space:]]other[[:space:]]features/Utrecht.osm.pbf filter=lfs diff=lfs merge=lfs -text
+dashboard/wijkenbuurten_2024_v1.gpkg filter=lfs diff=lfs merge=lfs -text
